@@ -1,0 +1,80 @@
+territorial entity or entities served by this transport hub (airport, train station, etc.)
+range or subrange to which the geographical item belongs
+religion of a person, organization or religious building, or associated with this subject
+teams that actively takes/took part in an event or process
+direct subdivisions of an administrative territorial entity
+head of the executive power of this town, city, municipality, state, country, or other governmental body
+the object is a country that recognizes the subject as its citizen
+network or service that originally broadcast a radio or television program
+heritage designation of a cultural or natural site
+actor, musician, band or other performer associated with this role or musical work
+event in which a person or organization was/is a participant
+subject currently or formerly holds the object position or public office
+part of this subject
+location where a group or organization was formed
+located on the specified physical/geophysical feature
+person or architectural firm responsible for designing this building
+country of origin of this item (creative work, food, phrase, product, etc.)
+organization or person responsible for publishing books, periodicals, printed music, podcasts, games or software
+director of film, TV-series, stageplay, video game or similar
+male parent of the subject
+organization or person that developed the item
+branch to which this military unit, award, office, or person belongs
+the body of water to which the watercourse drains
+award nomination received by a person, organisation or creative work
+literary, artistic, scientific or philosophical movement or scene associated with this person or work
+person elected after the election
+immediately following item in a series of which the subject is a part
+manufacturer or producer of this product
+that class of which this subject is a particular example and member
+artist whose work strongly inspired/ was copied in this item
+the political party of which a person is or has been a member or otherwise affiliated
+place that a radio/TV station is licensed/required to broadcast to
+city, where an organization's headquarters is or has been situated
+the subject and the object have the same parents
+musical instrument that a person plays or teaches or used in a music occupation
+sovereign state of this item (not to be used for human beings)
+occupation of a person
+the place where the person is or has been, resident
+location where persons or organisations were actively participating in employment, business or other work
+subsidiary of a company or organization; generally a fully owned separate corporation
+person, group of people or organization (object) that actively takes/took part in an event or process
+person, profession, or organization that operates the equipment, facility, or service
+characters which appear in this item (like plays, operas, operettas, books, comics, films, TV series, video games)
+person or organization occupying property
+creative work's genre or an artist's field of work
+operating system (OS) on which a software works or the OS installed on hardware
+owner of the subject
+platform for which a work was developed or released, or the specific platform version of a software product
+watercourse that flows into an other one
+winner of a competition or similar event
+this item is said to be the same as that item, but it's uncertain or disputed
+person who wrote the music
+league in which team or player plays or has played in
+brand and trademark associated with the marketing of subject music recordings and music videos
+distributor of a creative work; distributor for a record label; news agency; film distributor
+person who wrote the script for subject item
+property that shows the competition of which the item is a season
+level in a taxonomic hierarchy
+location of the object, structure or event
+specialization of a person or organization
+language associated with this creative work (such as books, shows, songs, broadcasts or websites) or a name
+the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)
+notable scientific, artistic or literary work, or other work of significance among subject's works
+the item is located on the territory of the following administrative entity
+obstacle which this bridge crosses over or this tunnel goes under
+language in which a film or a performance work was originally created
+official classification by a regulating body under which the subject (events, teams, participants, or equipment) qualifies for inclusion
+object of which the subject is a part
+sport that the subject participates or participated in or is associated with
+the area of the celestial sphere of which the subject is a part
+position or specialism of a player on a team
+body of water on or next to which a place is located
+person's voice type
+immediately prior item in a series of which the subject is a part
+the subject has the object as their spouse (husband, wife, partner, etc.)
+military rank achieved by a person, or military rank associated with a position
+female parent of the subject
+organization, club or musical group to which the subject belongs
+subject has object as child
+primary topic of a work
