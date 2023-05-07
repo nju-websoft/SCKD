@@ -1,5 +1,5 @@
 # SCKD
-This is the source code of SCKD model.
+Serial Contrastive Knowledge Distillation for Continual Few-shot Relation Extraction, Findings of ACL 2023
 
 ## Requirements
 * Python (tested on 3.7.4)
