@@ -1,5 +1,5 @@
 # SCKD
-Serial Contrastive Knowledge Distillation for Continual Few-shot Relation Extraction, Findings of ACL 2023
+This is the source code of SCKD model.
 
 ## Requirements
 * Python (tested on 3.7.4)
@@ -31,3 +31,17 @@ Train the SCKD model on TACRED dataset under 5-way-5-shot (5-way-10-shot) settin
 >> python main.py --task tacred --shot 10  # for 5-way-10-shot setting
 ```
 
+
+## Citation
+
+If you find the repository helpful, please cite the following paper.
+```
+@misc{wang2023serial,
+      title={Serial Contrastive Knowledge Distillation for Continual Few-shot Relation Extraction}, 
+      author={Xinyi Wang and Zitao Wang and Wei Hu},
+      year={2023},
+      eprint={2305.06616},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
